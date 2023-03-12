@@ -147,4 +147,4 @@ def main(moduleExcelPath):
     DataFramesToExcel([moduleDataFrame], ["Modules"], Path("output/modules.xlsx"))
 
 
-main(data / "liste_modules.xlsx")
+main(data / "liste_intervenants.xlsx")
